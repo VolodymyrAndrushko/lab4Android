@@ -6,6 +6,20 @@
     "password": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
     "token": "quia",
     "location": "azaza"
+  },
+  {
+    "id": 2,
+    "login": "user2",
+    "password": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "token": "qusdasdia",
+    "location": "azasdasdasdaza"
+  },
+  {
+    "id": 3,
+    "login": "user3",
+    "password": "aecati excepturi optio reprehenderit",
+    "token": "qasduia",
+    "location": "aasdasdza"
   }
  ],
   "profile": {
