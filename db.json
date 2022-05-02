@@ -1,11 +1,14 @@
 {
-  "users": [
+  "posts": [
     {
-      "login": "user1",
-      "id": 1,
-      "password": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "token": "quia",
-      "location": "azaza"
-    }
-  ]
+    "login": "user1",
+    "id": 1,
+    "password": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "token": "quia",
+    "location": "azaza"
+  }
+ ],
+  "profile": {
+    "name": "typicode"
+  }
 }
